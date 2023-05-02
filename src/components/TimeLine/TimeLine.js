@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am passionate about developing and implementing innovative solutions that drive business outcomes. With expertise in programming languages such as Python, C++ and Java, as well as a strong background in statistics and mathematics, I have built and deployed advanced machine learning models that leverage big data to deliver insights and inform decision-making.
+      I am passionate about developing and implementing innovative solutions that drive business outcomes. With expertise in programming languages such as Python and Java, as well as a strong background in statistics and mathematics, I have built and deployed advanced machine learning models that leverage big data to deliver insights and inform decision-making.
       Throughout my career, I have collaborated with cross-functional teams to deliver high-quality solutions that exceed expectations. I remain committed to staying up-to-date with the latest trends and advancements in the field to continue delivering top-notch results.
       I am dedicated to contributing to the growth and success of a dynamic organization and welcome the opportunity to discuss how my skills can benefit your business. Please feel free to contact me if you would like to learn more.
       </SectionText>

@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Machine Learning</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            Python, Java and C++
+            Python, Java
           </ListParagraph>
         </ListContainer>
       </ListItem>
