@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Started my journey', },
-  { year: 2020, text: 'Machine Learning Engineer Intern', },
-  { year: 2021, text: 'Junior, Machine Learning Engineer', },
-  { year: 2022, text: 'Mid-Senior, Machine Learning Engineer', },
-  { year: 2023, text: 'Mid-Senior, Machine Learning Engineer', },
+  { year: 2017 - 2018, text: 'IBM Internship', },
+  { year: 2018 - 2020, text: 'Machine Learning Engineer', },
+  { year: 2020 - 2021, text: 'Mid-senior Machine Learning Engineer', },
+  { year: 2021 - 2023, text: 'Lead Machine Learning Engineer', },
 ];
